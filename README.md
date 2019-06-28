@@ -7,5 +7,8 @@ https://github.com/timotheus/ebaysdk-python
 
 
 TO DO:
+
 -Graphs
 -List of categories
+-more stuff
+- break program up in subparts
